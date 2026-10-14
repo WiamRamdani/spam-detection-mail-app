@@ -1,0 +1,17 @@
+# Optional notebook dependencies; the two notebooks use different ML stacks.
+jupyterlab
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+nltk
+wordcloud
+plotly
+torch
+transformers
+datasets
+accelerate
+tensorflow
+keras-tuner

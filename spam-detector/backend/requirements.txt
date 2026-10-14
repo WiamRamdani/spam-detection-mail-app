@@ -1,0 +1,15 @@
+# Initial dependency specification inferred from imports, not a tested lockfile.
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+cryptography
+torch
+# Version recorded in the supplied trained model's config.json:
+transformers==5.0.0
+safetensors
+python-jose[cryptography]
+passlib==1.7.4
+bcrypt==4.0.1
+pydantic[email]
+python-dotenv
